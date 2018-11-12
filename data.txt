@@ -1,1 +1,2 @@
 this is new file on git hub
+hello word i am new here
